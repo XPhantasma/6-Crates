@@ -16,3 +16,5 @@ Esc = Quit(you can quit at anytime)
 F12 = Screenshot
 
 You can also see the controls on the "how2play" section in the main menu
+
+To play it: unzip the "6-Crates Game" zip and run the exe inside.
